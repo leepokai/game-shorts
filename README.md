@@ -1,1 +1,1 @@
-practice with wed development
+practice with web development
